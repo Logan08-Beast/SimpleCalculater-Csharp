@@ -1,0 +1,12 @@
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.exe
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.deps.json
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.runtimeconfig.json
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.runtimeconfig.dev.json
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.dll
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\bin\Debug\netcoreapp3.1\SimpleCalculater.pdb
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.AssemblyInfoInputs.cache
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.AssemblyInfo.cs
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.dll
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.pdb
+D:\C# Tutorial\Projects\Simple Calculater\SimpleCalculater\obj\Debug\netcoreapp3.1\SimpleCalculater.genruntimeconfig.cache
